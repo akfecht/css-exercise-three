@@ -8,6 +8,13 @@
   width: 100%;
 }
 
+.arrow {
+  display: inline-block;
+}
+
+.content {
+  display: inline-block;
+}
 
 
 /* Type Customization */
@@ -16,8 +23,6 @@
   box-sizing: border-box;
   font-family: Arial;
   background-color: #fff;
-  display: block;
-
 }
 
 .location h1{
